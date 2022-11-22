@@ -9,7 +9,7 @@ const productos = [
             nombre: "Motherboard",
             id: "motherboards"
         },
-        precio: 1000
+        precio: 17500
     },
     {
         id: "motherboard-02",
@@ -19,7 +19,7 @@ const productos = [
             nombre: "Motherboard",
             id: "motherboards"
         },
-        precio: 1000
+        precio: 11300
     },
     {
         id: "motherboard-03",
@@ -29,7 +29,7 @@ const productos = [
             nombre: "Motherboard",
             id: "motherboards"
         },
-        precio: 1000
+        precio: 23400
     },
     {
         id: "motherboard-04",
@@ -39,7 +39,7 @@ const productos = [
             nombre: "Motherboard",
             id: "motherboards"
         },
-        precio: 1000
+        precio: 23700
     },
     {
         id: "motherboard-05",
@@ -49,7 +49,7 @@ const productos = [
             nombre: "Motherboard",
             id: "motherboards"
         },
-        precio: 1000
+        precio: 48600
     },
     // micros
     {
@@ -60,7 +60,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 48500
     },
     {
         id: "procesador-02",
@@ -70,7 +70,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 137000
     },
     {
         id: "procesador-03",
@@ -80,7 +80,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 31300
     },
     {
         id: "procesador-04",
@@ -90,7 +90,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 53000
     },
     {
         id: "procesador-05",
@@ -100,7 +100,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 31000
     },
     {
         id: "procesador-06",
@@ -110,7 +110,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 48800
     },
     {
         id: "procesador-07",
@@ -120,7 +120,7 @@ const productos = [
             nombre: "Procesadores",
             id: "procesadores"
         },
-        precio: 1000
+        precio: 52400
     },
 
     // Placas de video
@@ -132,7 +132,7 @@ const productos = [
             nombre: "PlacasdeVideo",
             id: "placasDeVideo"
         },
-        precio: 1000
+        precio: 160500
     },
     {
         id: "gpu-02",
@@ -142,7 +142,7 @@ const productos = [
             nombre: "PlacasdeVideo",
             id: "placasDeVideo"
         },
-        precio: 1000
+        precio: 86900
     },
     {
         id: "gpu-03",
@@ -152,7 +152,7 @@ const productos = [
             nombre: "Placas de Video",
             id: "placasDeVideo"
         },
-        precio: 1000
+        precio: 246000
     },
     {
         id: "gpu-04",
@@ -162,7 +162,7 @@ const productos = [
             nombre: "PlacasdeVideo",
             id: "placasDeVideo"
         },
-        precio: 1000
+        precio: 258000
     },
     {
         id: "gpu-05",
@@ -172,7 +172,7 @@ const productos = [
             nombre: "PlacasdeVideo",
             id: "placasDeVideo"
         },
-        precio: 1000
+        precio: 73640
     },
 
     //Almacenamiento
@@ -185,7 +185,7 @@ const productos = [
             nombre: "DiscoRigido",
             id: "almacenamiento"
         },
-        precio: 1000
+        precio: 8500
     },
     {
         id: "disco-02",
@@ -195,7 +195,7 @@ const productos = [
             nombre: "DiscoRigido",
             id: "almacenamiento"
         },
-        precio: 1000
+        precio: 14900
     },
     {
         id: "disco-03",
@@ -205,7 +205,7 @@ const productos = [
             nombre: "DiscoSolido",
             id: "almacenamiento"
         },
-        precio: 1000
+        precio: 7490
     },
     {
         id: "disco-04",
@@ -215,7 +215,7 @@ const productos = [
             nombre: "DiscoSolido",
             id: "almacenamiento"
         },
-        precio: 1000
+        precio: 6900
     },
 
     //Perifericos
@@ -228,7 +228,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 11500
     },
     {
         id: "periferico-02",
@@ -238,7 +238,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 17400
     },
     {
         id: "periferico-03",
@@ -248,7 +248,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 16700
     },
     {
         id: "periferico-04",
@@ -258,7 +258,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 13500
     },
     {
         id: "periferico-05",
@@ -268,7 +268,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 17600
     },
     {
         id: "periferico-06",
@@ -278,7 +278,7 @@ const productos = [
             nombre: "Auriculares",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 18700
     },
     {
         id: "periferico-07",
@@ -288,7 +288,7 @@ const productos = [
             nombre: "Mouse",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 7630
     },
     {
         id: "periferico-08",
@@ -298,7 +298,7 @@ const productos = [
             nombre: "Mouse",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 6980
     },
     {
         id: "periferico-09",
@@ -308,7 +308,7 @@ const productos = [
             nombre: "Mouse",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 4800
     },
     {
         id: "periferico-10",
@@ -318,7 +318,7 @@ const productos = [
             nombre: "Mouse",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 16400
     },
 
     {
@@ -329,7 +329,7 @@ const productos = [
             nombre: "Teclado",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 15700
     },
     {
         id: "periferico-12",
@@ -339,7 +339,7 @@ const productos = [
             nombre: "Teclado",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 21000
     },
     {
         id: "periferico-12",
@@ -349,7 +349,7 @@ const productos = [
             nombre: "Teclado",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 22670
     },
     {
         id: "periferico-12",
@@ -359,7 +359,7 @@ const productos = [
             nombre: "Teclado",
             id: "perifericos"
         },
-        precio: 1000
+        precio: 28400
     },
 
 
@@ -452,6 +452,7 @@ function agregarAlCarrito(e) {
     actualizarNumerito();
 
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
+    alertaAgregado()
 }
 
 function actualizarNumerito() {
